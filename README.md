@@ -28,3 +28,10 @@ I can be reached at my email: aPanarello20@gmail.com
   <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" alt="GCC" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+<p align="center"> <b> Visitor Count </b> </p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AtPan/count.svg" title="AtPan" alt="AtPan" />
+</div>
